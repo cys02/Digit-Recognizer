@@ -4,5 +4,5 @@
 ## Notebooks
 [Digit Recognizer by cys](https://www.kaggle.com/code/cuiyushuai/digit-recognizer-by-cys)
 
-## references
+## References
 [Easy-Peasy Detailed CNN Tutorial for Beginners](https://www.kaggle.com/code/akshitsharma1/easy-peasy-detailed-cnn-tutorial-for-beginners/notebook)
